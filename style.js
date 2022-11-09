@@ -13,17 +13,22 @@ const styles = StyleSheet.create({
       },
       punchline:{
         textAlign:'center',
-        color: '#c00',
+        color: '#262626',
         fontSize:32,
       },
       bigButton:{
         backgroundColor: 'hotpink',
-        padding:'8px 48px',
+        // padding:'8px 48px',
         borderRadius: 6
       },
       buttonText:{
         color:'white',
         fontSize: 40,
+      },
+      hidden: {
+        backgroundColor:"#262626",
+        width:'100%',
+        padding: 16
       }
 })
 
