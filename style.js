@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
       hidden: {
         backgroundColor:"#262626",
         width:'100%',
-        padding: 16
+        padding: 16,
+        borderRadius: '20%',
       }
 })
 
